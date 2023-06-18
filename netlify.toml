@@ -1,5 +1,5 @@
 [template.environment]
-  MEDUSA_BACKEND_URL=https://squid-app-zcmqj.ondigitalocean.app
+  MEDUSA_BACKEND_URL="https://squid-app-zcmqj.ondigitalocean.app"
 
 [build]
   publish = "public/"
